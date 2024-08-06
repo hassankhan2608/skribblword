@@ -6,6 +6,7 @@ flow
 Lightning McQueen
 crazy
 satellite dish
+diary
 potato
 california
 pliers
