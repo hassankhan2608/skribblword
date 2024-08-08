@@ -6,7 +6,6 @@ flow
 Lightning McQueen
 crazy
 satellite dish
-signal
 possessed
 diary
 potato
