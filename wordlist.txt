@@ -11,6 +11,7 @@ diary
 potato
 california
 pliers
+prize
 bikini
 tooth fairy
 trash
